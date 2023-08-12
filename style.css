@@ -1,0 +1,16 @@
+.blog {
+  border: 2px solid rgb(223, 140, 140);
+  border-radius: 2px;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+}
+#image {
+  border: 1px solid rgb(119, 116, 116);
+}
+
+.trivia {
+  border: 2px solid rgb(222, 203, 56);
+}
